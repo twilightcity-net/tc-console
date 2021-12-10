@@ -1,7 +1,7 @@
 {
-  "name": "react-console-emulator",
-  "version": "5.0.1",
-  "description": "A simple terminal emulator component for React.",
+  "name": "tc-console",
+  "version": "5.0.2",
+  "description": "A simple terminal emulator component for React forked from react-console-emulator and customized for TwilightCity.",
   "main": "dist/Terminal.js",
   "files": [
     "dist/**"
