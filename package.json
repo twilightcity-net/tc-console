@@ -46,7 +46,7 @@
     "@babel/preset-env": "^7.13.15",
     "@babel/preset-react": "^7.13.13",
     "@babel/runtime": "^7.13.10",
-    "@hot-loader/react-dom": "^16.14.0",
+    "@hot-loader/react-dom": "^17.0.1",
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.2.2",
     "babel-minify": "^0.5.1",
@@ -79,8 +79,8 @@
     "optimize-css-assets-webpack-plugin": "^5.0.4",
     "progress-bar-webpack-plugin": "^2.1.0",
     "puppeteer": "^2.1.1",
-    "react": "^16.14.0",
-    "react-dom": "^16.14.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-hot-loader": "^4.13.0",
     "sass-loader": "^10.1.1",
     "skip-if": "^1.1.1",
@@ -99,7 +99,7 @@
     "react-innertext": "^1.1.5"
   },
   "peerDependencies": {
-    "react": "^16.3.0",
-    "react-dom": "^16.3.0"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   }
 }
